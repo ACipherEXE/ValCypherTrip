@@ -1,0 +1,7 @@
+C:\Users\sonyc\source\repos\ValCypherTrip\ValCypherTrip\obj\Debug\ValCypherTrip.csprojAssemblyReference.cache
+C:\Users\sonyc\source\repos\ValCypherTrip\ValCypherTrip\obj\Debug\ValCypherTrip.csproj.CoreCompileInputs.cache
+C:\Users\sonyc\source\repos\ValCypherTrip\ValCypherTrip\bin\Debug\ValCypherTrip.exe.config
+C:\Users\sonyc\source\repos\ValCypherTrip\ValCypherTrip\bin\Debug\ValCypherTrip.exe
+C:\Users\sonyc\source\repos\ValCypherTrip\ValCypherTrip\bin\Debug\ValCypherTrip.pdb
+C:\Users\sonyc\source\repos\ValCypherTrip\ValCypherTrip\obj\Debug\ValCypherTrip.exe
+C:\Users\sonyc\source\repos\ValCypherTrip\ValCypherTrip\obj\Debug\ValCypherTrip.pdb
